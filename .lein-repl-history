@@ -1,0 +1,60 @@
+(. System exit 0)
+(api-url (workflow workflow-id))
+url
+workflow
+workflow-id
+(str workflow workflow-id)
+(str workflow workflow-id "?circle-token=" api-key)
+(api-url (workflow workflow-id))
+(defn api-url 
+[url id]
+(str url id "?circle-token=" api-key))
+api-url
+(api url(workflow workflow-id))
+(. System exit 0)
+api-url (workflow workflow-id)
+(. System exit 0)
+(api-url (workflow workflow-id))
+(. System exit 0)
+(api-url (workflow workflow-id))
+(. System exit 0)
+(api-url (workflow workflow-id))
+(. System exit 0)
+(api-url (workflow workflow-id))
+(. System exit 0)
+(api-url (workflow workflow-id))
+(str workflow workflow-id)
+(defn fuck
+[url id]
+(str url id))
+(fuck workflow workflow-id)
+(defn fuck
+[url id]
+(str url id "shit"))
+(fuck workflow workflow-id)
+(defn fuck
+[url id]
+(str url id "shit" api-key))
+(fuck workflow workflow-id)
+(. System exit 0)
+(api-url workflow workflow-id)
+(. System exit 0)
+(full-url (url workflow workflow-id))
+(. System exit 0)
+full-url
+(. System exit 0)
+(full-url (url workflow workflow-id))
+(slurp full-url (url workflow workflow-id))
+(slurp (full-url (url workflow workflow-id)))
+(. System exit 0)
+workflow-response
+(. System exit 0)
+user-id
+(. System exit 0)
+user-response
+(. System exit 0)
+who-dun-it?
+(. System exit 0)
+who-dun-it?
+(. System exit 0)
+who-dun-it?
